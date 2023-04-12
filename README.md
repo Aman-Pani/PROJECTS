@@ -48,7 +48,7 @@ The machine is programmed to not return any residual coin if the total amount of
 - Delay for green light 5ns and for red light 1ns.
 
 
-![Vending Machine State Diagram](docs/traffic-signal-state-diagram.jpg)
+![Vending Machine State Diagram](docs/traffic-signal-state-diagram.png)
 
 **REFERENCE** - [Traffir Signal - EDA Playground](https://www.edaplayground.com/x/FX22)
 
