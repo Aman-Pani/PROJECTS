@@ -14,8 +14,9 @@ This project will aim at design and immplemention of a SPI-based temperature mon
 - [Technical Reference: Xilinx Spartan-6 FPGA Development Board][TechRefSpartan6]
 
 
-## Electronic Lock
 
+
+## Electronic Lock
 - Design an electronic combination lock using sequence detection and FSM. 
 - The lock has a reset button, two number buttons (0 and 1), and an unlock output. 
 - The combination to unlock the device is 01011.
@@ -24,8 +25,9 @@ The lock works by detecting the correct sequence of button presses and then outp
 
 ![Electronic Lock State Diagram](docs/electronic-lock-state-diagram.png)
 
-**SOME USEFUL LINKS**
-- [Electronic Lock - EDA Playground](https://www.edaplayground.com/x/enjP)
+**REFERENCE** - [Electronic Lock - EDA Playground](https://www.edaplayground.com/x/enjP)
+
+
 
 ## Vending Machine
 - Design a vending machine that accepts only two coins, 5 rupee and 10 rupee. 
@@ -36,8 +38,7 @@ The machine is programmed to not return any residual coin if the total amount of
 
 ![Vending Machine State Diagram](docs/vending-machine-state-diagram.jpg)
 
-**SOME USEFUL LINKS**
-- [Vending Machine - EDA Playground](https://www.edaplayground.com/x/A_uK)
+**REFERENCE** - [Vending Machine - EDA Playground](https://www.edaplayground.com/x/A_uK)
 
 
 
