@@ -9,5 +9,5 @@ This project will aim at design and immplemention of a SPI-based temperature mon
 **SOME USEFUL LINKS**
 
 - [An easy-to-read SPI tutorial from sparkfun](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi)
-- [Datasheet: TI SPI-based temperature sensor LM70][datasheet-LM70-TI-tempSensor.pdf]
+- [Datasheet: TI SPI-based temperature sensor LM70][docs/datasheet-LM70-TI-tempSensor.pdf]
 - [Technical Reference: Xilinx Spartan-6 FPGA Development Board][TechRefSpartan6]
