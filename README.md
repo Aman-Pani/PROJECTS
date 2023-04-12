@@ -17,7 +17,8 @@ This project will aim at design and immplemention of a SPI-based temperature mon
 
 - Design an electronic combination lock using sequence detection and FSM. 
 - The lock has a reset button, two number buttons (0 and 1), and an unlock output. 
-- The combination to unlock the device is 01011. 
+- The combination to unlock the device is 01011.
+-  
 The lock works by detecting the correct sequence of button presses and then outputting a signal to unlock the device. The FSM design ensures that the lock can only be unlocked with the correct combination.
 
 
