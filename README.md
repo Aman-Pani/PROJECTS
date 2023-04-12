@@ -17,7 +17,15 @@ This project will aim at design and immplemention of a SPI-based temperature mon
 
 
 
-![Electronic Lock State Diagram](docs/tempMonitor-blockDiag-v1-0322.png)
+![Electronic Lock State Diagram](docs/electronic-lock-state-diagram.png)
+
+
+
+## Vending Machine
+
+
+
+![Vending Machine State Diagram](docs/vending-machine-state-diagram.png)
 
 
 
