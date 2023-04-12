@@ -13,9 +13,11 @@ This project will aim at design and immplemention of a SPI-based temperature mon
 - [Technical Reference: Xilinx Spartan-6 FPGA Development Board][TechRefSpartan6]
 
 
+## Electronic Lock
 
 
 
+![Electronic Lock State Diagram](docs/tempMonitor-blockDiag-v1-0322.png)
 
 
 
