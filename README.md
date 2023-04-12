@@ -25,7 +25,7 @@ This project will aim at design and immplemention of a SPI-based temperature mon
 
 
 
-![Vending Machine State Diagram](docs/vending-machine-state-diagram.png)
+![Vending Machine State Diagram](docs/vending-machine-state-diagram.jpg)
 
 
 
