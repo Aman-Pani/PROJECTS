@@ -2,8 +2,8 @@
 
 ## Full-Adder-Verification
 
-Designed a gate-level full-adder.
-Verification was done using testbench along with several models such as top, common, agent, generator, bfm(bus functional model), transaction, interface, test, environment, input-output monitor, scoreboard and coverage.
+- Designed a gate-level full-adder.
+- Verification was done using testbench along with several models such as top, common, agent, generator, bfm(bus functional model), transaction, interface, test, environment, input-output monitor, scoreboard and coverage.
 
 **REFERENCE** - [Full-Adder-Verification - EDA Playground](https://www.edaplayground.com/x/fGLC)
 
