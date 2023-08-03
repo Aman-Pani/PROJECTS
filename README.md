@@ -3,7 +3,7 @@
 ## Full-Adder-Verification
 
 
-**REFERENCE** - [Traffir Signal - EDA Playground](https://www.edaplayground.com/x/fGLC)
+**REFERENCE** - [Full-Adder-Verification - EDA Playground](https://www.edaplayground.com/x/fGLC)
 
 ## SPI-based TEMPERATURE MONITOR
 
