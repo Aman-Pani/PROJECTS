@@ -6,10 +6,10 @@
 
 - The system prioritizes simplicity and ease of use, clear audio feedback, and straightforward commands. GPT-Sakshat aims to assist seniors with various daily tasks, from setting reminders and sending messages to playing music and providing weather updates, enhancing their independence and convenience. The conversational agent's intuitive design fosters trust and encourages interaction, facilitating seamless integration into the user's daily routine.
 
-# Keywords
+### Keywords
 GPT, Hindi Voice Assistant, Elderly support, Natural Language Processing, Audio Feedback.
 
-**REFERENCE** - [Full-Adder-Verification - EDA Playground](https://www.edaplayground.com/x/fGLC)
+**REFERENCE** - [GPT-Sakshat](https://drive.google.com/drive/folders/1YItdCtNIg9ltv6Q3EkGg1-xlUX-He563?usp=sharing)
 
 ## Full-Adder-Verification
 
