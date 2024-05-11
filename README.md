@@ -11,7 +11,29 @@ GPT, Hindi Voice Assistant, Elderly support, Natural Language Processing, Audio 
 
 ![GPT-Sakshat Block Diagram](docs/GPT-Sakshat.png)
 
-**REFERENCE** - [GPT-Sakshat](https://drive.google.com/drive/folders/1YItdCtNIg9ltv6Q3EkGg1-xlUX-He563?usp=sharing)
+- Pseudocode :
+
+```python
+Initialize pyttsx3 engine
+Initialize OpenAI API key
+Initialize messages
+Set listening to True
+Initialize speech recognizer
+
+Function get_response(user_input):
+    Process user_input to generate a response
+
+Recognize audio input:
+    If audio input contains the phrase 'raj':
+        Speak the response
+        Continue listening for more input
+    Else if audio input doesn't contain the phrase 'raj':
+        Report "Didn't recognize 'Raj'." error
+    Else (if audio input recognition fails):
+        Report "Didn't recognize anything." error
+```
+
+**PROTOTYPE MODEL** - [GPT-Sakshat](https://drive.google.com/drive/folders/1YItdCtNIg9ltv6Q3EkGg1-xlUX-He563?usp=sharing)
 
 
 
