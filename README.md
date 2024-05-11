@@ -9,7 +9,7 @@
 ### Keywords
 GPT, Hindi Voice Assistant, Elderly support, Natural Language Processing, Audio Feedback.
 
-![Temperature Monitor Block Diagram](docs/tempMonitor-blockDiag-v1-0322.png)
+![GPT-Sakshat Block Diagram](docs/GPT-Sakshat.png)
 
 **REFERENCE** - [GPT-Sakshat](https://drive.google.com/drive/folders/1YItdCtNIg9ltv6Q3EkGg1-xlUX-He563?usp=sharing)
 
